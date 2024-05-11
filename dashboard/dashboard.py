@@ -67,7 +67,7 @@ max_date = all_df["order_delivered_carrier_date"].max()
  
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://github.com/tomyivansugiharto/datascience/blob/main/e-commerce/asset/logo.png?raw=true")
+    st.image("https://github.com/tomyivansugiharto/datascience/blob/main/asset/logo.png?raw=true")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
