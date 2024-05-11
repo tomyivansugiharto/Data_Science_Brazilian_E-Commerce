@@ -17,5 +17,6 @@ Dashboard interaktif ini memberikan analisis atas pembelian pada e-commerce publ
    ```
 ## Streamlit Link:
    ```
+   https://dashboardpy-e-commerce.streamlit.app/
    ```
 ## ](dashboard/all_df.csv)
