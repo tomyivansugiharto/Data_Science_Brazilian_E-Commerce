@@ -12,9 +12,10 @@ Dashboard interaktif ini memberikan analisis atas pembelian pada e-commerce publ
    
 ## Run streamlit app:
    ```
+   cd: dashboard
    streamlit run dashboard.py
    ```
 ## Streamlit Link:
    ```
    ```
-## ](dataset/all_df.csv)
+## ](dashboard/all_df.csv)
