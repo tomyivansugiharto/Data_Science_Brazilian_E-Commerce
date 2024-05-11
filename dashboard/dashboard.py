@@ -52,7 +52,7 @@ def create_rfm_df(df):
     return rfm_df
 
 # Load Cleaned Data
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/tomyivansugiharto/datascience/main/dashboard/all_data.csv")
 
 datetime_columns = ["order_delivered_carrier_date", "order_delivered_customer_date"]
 all_df.sort_values(by="order_delivered_carrier_date", inplace=True)
